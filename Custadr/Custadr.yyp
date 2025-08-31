@@ -25,6 +25,7 @@
   "name":"Custadr",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"ctor_CustadrAssetCollection","path":"scripts/ctor_CustadrAssetCollection/ctor_CustadrAssetCollection.yy",},},
     {"id":{"name":"ctor_CustadrAssetInfo","path":"scripts/ctor_CustadrAssetInfo/ctor_CustadrAssetInfo.yy",},},
     {"id":{"name":"ctor_CustadrAssetLoader","path":"scripts/ctor_CustadrAssetLoader/ctor_CustadrAssetLoader.yy",},},
     {"id":{"name":"ctor_CustadrException","path":"scripts/ctor_CustadrException/ctor_CustadrException.yy",},},
