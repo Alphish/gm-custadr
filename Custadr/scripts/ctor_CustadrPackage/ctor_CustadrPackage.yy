@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ctor_CustadrPackage",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ctor_CustadrPackage",
+  "parent":{
+    "name":"Custadr",
+    "path":"folders/_Packages/Alphish/Custadr.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
