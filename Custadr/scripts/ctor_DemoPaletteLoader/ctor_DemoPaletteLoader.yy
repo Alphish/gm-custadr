@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ctor_DemoPaletteLoader",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ctor_DemoPaletteLoader",
+  "parent":{
+    "name":"Demo",
+    "path":"folders/Demo.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

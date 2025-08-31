@@ -14,6 +14,7 @@
     {"$GMFolder":"","%Name":"Alphish","folderPath":"folders/_Packages/Alphish.yy","name":"Alphish","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Custadr","folderPath":"folders/_Packages/Alphish/Custadr.yy","name":"Custadr","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Loading","folderPath":"folders/_Packages/Alphish/Custadr/Loading.yy","name":"Loading","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Demo","folderPath":"folders/Demo.yy","name":"Demo","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
@@ -24,7 +25,8 @@
   },
   "name":"Custadr",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"ctrl_Demo","path":"objects/ctrl_Demo/ctrl_Demo.yy",},},
+    {"id":{"name":"rm_Demo","path":"rooms/rm_Demo/rm_Demo.yy",},},
     {"id":{"name":"ctor_CustadrAssetCollection","path":"scripts/ctor_CustadrAssetCollection/ctor_CustadrAssetCollection.yy",},},
     {"id":{"name":"ctor_CustadrAssetInfo","path":"scripts/ctor_CustadrAssetInfo/ctor_CustadrAssetInfo.yy",},},
     {"id":{"name":"ctor_CustadrAssetLoader","path":"scripts/ctor_CustadrAssetLoader/ctor_CustadrAssetLoader.yy",},},
@@ -32,11 +34,12 @@
     {"id":{"name":"ctor_CustadrLoadingProcess","path":"scripts/ctor_CustadrLoadingProcess/ctor_CustadrLoadingProcess.yy",},},
     {"id":{"name":"ctor_CustadrPackage","path":"scripts/ctor_CustadrPackage/ctor_CustadrPackage.yy",},},
     {"id":{"name":"ctor_CustadrPackageLoader","path":"scripts/ctor_CustadrPackageLoader/ctor_CustadrPackageLoader.yy",},},
+    {"id":{"name":"ctor_DemoPaletteLoader","path":"scripts/ctor_DemoPaletteLoader/ctor_DemoPaletteLoader.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_Demo","path":"rooms/rm_Demo/rm_Demo.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
